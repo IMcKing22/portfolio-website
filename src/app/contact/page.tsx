@@ -34,7 +34,7 @@ export default function Contact() {
           <div className="max-w-3xl mx-auto">
             <h1 className="text-4xl font-bold mb-8">Get in Touch</h1>
             <p className="text-lg text-gray-600 dark:text-gray-300 mb-12">
-              I'm always interested in hearing about new projects and opportunities.
+              I&apos;m always interested in hearing about new projects and opportunities.
               Feel free to reach out!
             </p>
 

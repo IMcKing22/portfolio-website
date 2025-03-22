@@ -10,10 +10,10 @@ export default function Home() {
         <section className="min-h-[calc(100vh-4rem)] flex items-center justify-center px-4 sm:px-6 lg:px-8">
           <div className="max-w-7xl mx-auto text-center">
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-gray-900 dark:text-white mb-6">
-              Hi, I'm <span className="text-blue-600 dark:text-blue-400">Isaac.</span>
+              Hi, I&apos;m <span className="text-blue-600 dark:text-blue-400">Isaac.</span>
             </h1>
             <p className="text-xl sm:text-2xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto">
-              I'm a passionate software engineer dedicated to creating impactful, innovative, and enjoyable solutions with my skills!
+              I&apos;m a passionate software engineer dedicated to creating impactful, innovative, and enjoyable solutions with my skills!
             </p>
             <div className="flex justify-center gap-4">
               <Link
@@ -43,7 +43,7 @@ export default function Home() {
                 <div className="p-6">
                   <h3 className="text-xl font-semibold mb-2">Resume Editor</h3>
                   <p className="text-gray-600 dark:text-gray-300 mb-4">
-                    This is one of my most useful tools, it's a resume editor that pulls information directly from my portfolio website and resume to custom tailor my resume to the job opportunity I am applying to.
+                    This is one of my most useful tools, it&apos;s a resume editor that pulls information directly from my portfolio website and resume to custom tailor my resume to the job opportunity I am applying to.
                   </p>
                   <div className="flex flex-wrap gap-2">
                     <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 rounded-full text-sm">

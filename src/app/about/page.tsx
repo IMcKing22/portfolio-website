@@ -11,12 +11,12 @@ export default function About() {
             <h1 className="text-4xl font-bold mb-8">About Me</h1>
             <div className="prose dark:prose-invert max-w-none">
               <p className="text-lg mb-6">
-                I'm a passionate full-stack developer with a keen eye for design and a love for creating
+                I&apos;m a passionate full-stack developer with a keen eye for design and a love for creating
                 seamless user experiences. With several years of experience in web development, I
                 specialize in building modern, responsive applications using cutting-edge technologies.
               </p>
               <p className="text-lg mb-6">
-                My journey in software development began [Your Story Here]. I'm constantly learning and
+                My journey in software development began [Your Story Here]. I&apos;m constantly learning and
                 exploring new technologies to stay at the forefront of web development.
               </p>
             </div>
